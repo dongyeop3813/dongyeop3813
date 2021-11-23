@@ -10,5 +10,5 @@ Woo DongYeop
 > Computer science student in POSTECH. Newbie hacker major in PWN.:smile:
 
 ## Projects
-- :laughing: 2020 POSTECH 새터 POGWART. `Front-end`
+- :laughing: Web Game Developing(POGWART) for 2021 POSTECH Freshmen OT POGWART. `Front-end`
 - :sweat_smile: 2021 UGRP AI visual audio converter on the basis of sentiment. `AI`
