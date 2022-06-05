@@ -11,4 +11,4 @@ Woo DongYeop
 
 ## Projects
 - :laughing: Web Game Developing(POGWART) for 2021 POSTECH Freshmen OT POGWART. `Front-end`
-- :sweat_smile: 2021 UGRP AI visual audio converter on the basis of sentiment. `AI` `working now`
+- 😄 2021 UGRP AI visual audio converter on the basis of sentiment. `AI` `Encouragement award`
