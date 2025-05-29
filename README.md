@@ -15,6 +15,6 @@
 **Tools:** Git, VSCode, Jupyter, Weights & Biases, LaTeX
 
 ### 📫 Contact
-- 🧑‍💻 Homepage: [dongyeop.github.io](https://dongyeop.github.io)
+- 🧑‍💻 Homepage: [dongyeop3813.github.io](https://dongyeop3813.github.io)
 - 📧 Email: dongyeob@kaist.ac.kr
 - 📝 [Google Scholar](https://scholar.google.com/citations?user=jl91FPYAAAAJ)
